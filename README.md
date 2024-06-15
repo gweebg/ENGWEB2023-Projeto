@@ -8,7 +8,7 @@
 # Acordb
 
 Através da realização deste projeto foi criada a plataforma **Acordb** com o intuído de auxiliar qualquer tipo de pessoa ou organização a procurar, guardar ou editar acórdãos.
-Comoo cada tribunal, com autonomia própria, disponibiliza periodicamente um conjunto de acórdãos públicos, a aplicação, por defeito, possui aproximadamente 340.000 acórdãos espalhados por 14 tribunais diferentes. Tais registos podem ser pesquisados a qualquer nível de detalhe, guardados nos favoritos ou até alterados através de pedidos de sugestão.
+Como cada tribunal, com autonomia própria, disponibiliza periodicamente um conjunto de acórdãos públicos, a aplicação, por defeito, possui aproximadamente 340.000 acórdãos espalhados por 14 tribunais diferentes. Tais registos podem ser pesquisados a qualquer nível de detalhe, guardados nos favoritos ou até alterados através de pedidos de sugestão.
 
 Ao longo do projeto, foram utilizadas diferentes *stacks* de tecnologias. De um modo geral, o *backend* foi desenvolvido em Python (Django), devivo à facilidade de processamento, parsing, manipulação e normalização de dados. E no *frontend* Sveltekit (Svelte + JavaScript) devido à sua grande abstração de tarefas que noutras ***frameworks*** seriam, no mínimo, cansativas.
 
